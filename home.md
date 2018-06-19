@@ -124,3 +124,7 @@ for app in apps:
         print('Unicode Installed package')
         print(app.InstalledProductName.encode('utf-8'))
 ```
+
+| Test | Cool |
+| ---  |   --- |
+| Test|  Test |
