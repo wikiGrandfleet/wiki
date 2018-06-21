@@ -1,6 +1,26 @@
 <!-- TITLE: Installation Details -->
 <!-- SUBTITLE: Python script for japanese games and content -->
 
+# Wiki.js
+## Markdown
+
+| Test | Cool |
+| ---  |   --- |
+| Test|  Test |
+
+Wiki, js supports standard markdown however the ability to include a folder of images is quite useful.
+
+![Composer Arch](/uploads/engr-446/composer-arch.png "Composer Arch")
+
+### Example Code
+
+Since markdown just renders html, pdf files can be embeeded using
+
+<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://yoursite.com/the.pdf">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>
+    </embed>
+</object>
 ##### Python Script
 
 Hopefully you show up in the wiki, no errors are appearing
@@ -124,7 +144,3 @@ for app in apps:
         print('Unicode Installed package')
         print(app.InstalledProductName.encode('utf-8'))
 ```
-
-| Test | Cool |
-| ---  |   --- |
-| Test|  Test |
