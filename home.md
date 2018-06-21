@@ -16,9 +16,9 @@ Wiki, js supports standard markdown however the ability to include a folder of i
 
 Since markdown just renders html, pdf files can be embeeded using
 
-<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://yoursite.com/the.pdf">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>
+<object data="https://github.com/FriendlyUser/ENGRCoopReportTemplate/blob/AuxReports/reportContent.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/FriendlyUser/ENGRCoopReportTemplate/blob/AuxReports/reportContent.pdf">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/FriendlyUser/ENGRCoopReportTemplate/blob/AuxReports/reportContent.pdf">Download PDF</a>
     </embed>
 </object>
 ##### Python Script
