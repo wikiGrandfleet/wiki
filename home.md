@@ -2,6 +2,8 @@
 <!-- SUBTITLE: Python script for japanese games and content -->
 
 # Wiki.js
+
+Links to new links [Bad Link](infura-passwords)
 ## Markdown
 
 | Test | Cool |
