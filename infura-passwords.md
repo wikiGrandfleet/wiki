@@ -48,7 +48,5 @@ The data you provided is below for your records:
 
 | **What is your name?** | David Li |
 | **What is your email address?** | <pandabeareee@gmail.com> |
-| **Mailing List** | - Check to sign up for the INFURA™ News mailing list.\
- |
-| **Terms of Service** | - Check to acknowledge acceptance of our [Terms of Service](https://infura.io/terms)\
- |
+| **Mailing List** | - Check to sign up for the INFURA™ News mailing list.\ |
+| **Terms of Service** | - Check to acknowledge acceptance of our [Terms of Service](https://infura.io/terms) |
