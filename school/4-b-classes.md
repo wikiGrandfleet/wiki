@@ -4,7 +4,7 @@
 
 <h1 style="color:blue;">This is a Blue Heading</h1>
 
-Does this break anything??
+Does this break anything?? Can use inline styles, however no links are attached.
 
 # Table of Choices
 
