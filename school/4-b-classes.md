@@ -2,6 +2,7 @@
 <!-- SUBTITLE: Summary of classes I took for UVIC 4B -->
 
 
+<h1 style="color:blue;">This is a Blue Heading</h1>
 # Table of Choices
 
 > Courses I want to take, the main courses are formly CENG courses
