@@ -35,7 +35,8 @@ rinkeby: {
 ```
 
 <p style="text-align: center">Corresponding network settings in <code>truffle.js</code></p>
-See the offical truffle docs for [more info](https://truffleframework.com/tutorials/using-infura-custom-provider), and 
+
+See the offical truffle docs for [truffle-infura](https://truffleframework.com/tutorials/using-infura-custom-provider), and 
 In the end, I decided to use the truffle-vue box, partly because it worked when I installed it, and prefer to move away from react for long-time reasons.
  
 Using webpack and surge, I can deploy blockchain applications to surge, directly to the internet.
