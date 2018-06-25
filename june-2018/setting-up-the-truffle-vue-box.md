@@ -36,9 +36,45 @@ rinkeby: {
 
 <p style="text-align: center">Corresponding network settings in <code>truffle.js</code></p>
 
-See the offical truffle docs for [truffle-infura](https://truffleframework.com/tutorials/using-infura-custom-provider), and 
+See the offical truffle docs for [truffle-infura](https://truffleframework.com/tutorials/using-infura-custom-provider), and [medium article](https://medium.com/coinmonks/deploy-your-smart-contract-directly-from-truffle-with-infura-ba1e1f1d40c2).
 In the end, I decided to use the truffle-vue box, partly because it worked when I installed it, and prefer to move away from react for long-time reasons.
  
 Using webpack and surge, I can deploy blockchain applications to surge, directly to the internet.
 
-Webpack is module bundler which takes modules with dependencies and generates static assets representing those modules. In other words, perfect to use on surge.
+Webpack is module bundler which takes modules with dependencies and generates static assets representing those modules. In other words, perfect to use on surge. The starting `travis.yml` file I have is [![Build Status](https://travis-ci.org/FriendlyUser/Vue-Dapp.svg?branch=master)](https://travis-ci.org/FriendlyUser/Vue-Dapp)
+
+
+```yml
+sudo: required
+language: node_js
+node_js:
+  - "9"
+addons:
+  apt:
+    sources:
+      - google-chrome
+    packages:
+      - google-chrome-stable
+cache:
+  directories:
+  - node_modules
+before_install:
+  - export CHROME_BIN=chromium-browser
+  - export DISPLAY=:99.0
+  - sh -e /etc/init.d/xvfb start
+install:
+  - npm install -g truffle
+  - npm install -g ganache-cli
+  - npm install
+script:
+  #- npm run lint
+  - npm run ganache
+  - sleep 5
+  - truffle migrate --network development
+  - npm run test/truffle 
+  - npm run unit
+  - npm run e2e
+  - npm run stop
+#after_script:
+#  - npm run coverage && cat coverage/lcov.info | coveralls
+```
