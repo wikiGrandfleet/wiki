@@ -34,7 +34,7 @@ rinkeby: {
 }
 ```
 
-<p style="text-align: center">Corresponding network settings in <pre>truffle.js</pre></p>
+<p style="text-align: center">Corresponding network settings in <code>truffle.js</code></p>
 See the offical truffle docs for [more info](https://truffleframework.com/tutorials/using-infura-custom-provider), and 
 In the end, I decided to use the truffle-vue box, partly because it worked when I installed it, and prefer to move away from react for long-time reasons.
  
