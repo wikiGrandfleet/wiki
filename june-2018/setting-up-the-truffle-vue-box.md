@@ -17,6 +17,8 @@ HDWALLET_MNEMONIC="world dune exercise spike now clap night vacant dad fog off s
 INFURA_API_KEY='J0iUetUNOiLgdcX02CGi'
 ```
 
+<p style="text-align: center">Sample enviroment file, api_key refers to uvic email address</p>
+
 ```js
 ropsten: {
       provider: new HDWalletProvider(process.env.MNENOMIC, "https://ropsten.infura.io/" + process.env.INFURA_API_KEY),
@@ -32,6 +34,7 @@ rinkeby: {
 }
 ```
 
+<p style="text-align: center">Corresponding network settings in <pre>truffle.js</pre></p>
 See the offical truffle docs for [more info](https://truffleframework.com/tutorials/using-infura-custom-provider), and 
 In the end, I decided to use the truffle-vue box, partly because it worked when I installed it, and prefer to move away from react for long-time reasons.
  
