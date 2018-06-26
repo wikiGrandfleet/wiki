@@ -23,3 +23,94 @@ Does this break anything?? Can use inline styles, however no links are attached.
 ### ECE
 
 ### SENG
+
+
+#### Selected CDN Codes
+
+<table class="dataentrytable">
+<tbody><tr>
+<td class="delabel" scope="row">Associated Term:</td>
+<td class="dedefault">Second Term: Jan - Apr 2019</td>
+</tr>
+</tbody></table>
+
+<table class="dataentrytable">
+<tbody><tr>
+<td class="delabel" scope="row">Remove</td>
+<td class="delabel" scope="row">CRN</td>
+<td class="delabel" scope="row">Subject</td>
+<td class="delabel" scope="row">Title</td>
+<td class="delabel" scope="row"><p class="rightaligntext">Units</p></td>
+<td class="delabel" scope="row"><b>Linked Course?</b></td>
+</tr>
+<tr>
+<td class="dedefault">
+<input type="checkbox" name="drop_action" value="20898" id="drop_id1">
+</td><td nowrap="nowrap" class="dedefault"><span class="fieldnormaltext"><a href="/BAN1P/bwysched.p_display_course?wsea_code=CRED&amp;term_code=201901&amp;session_id=832451&amp;crn=20898&amp;form_code=CALLTIME" onmouseover="window.status='Display Course Details';  return true" onfocus="window.status='Display Course Details';  return true" onmouseout="window.status='';  return true" onblur="window.status='';  return true">20898</a></span></td>
+<td class="dedefault">ECE 457 A01</td>
+<td class="dedefault"><span class="fieldnormaltext"><a href="/BAN1P/bwysched.p_display_course?wsea_code=CRED&amp;term_code=201901&amp;session_id=832451&amp;crn=20898&amp;form_code=CALLTIME" onmouseover="window.status='Display Course Details';  return true" onfocus="window.status='Display Course Details';  return true" onmouseout="window.status='';  return true" onblur="window.status='';  return true">Parallel and Cluster Computing</a></span></td>
+<td class="dedefault"><p class="rightaligntext">  1.50</p></td>
+<td class="dedefault">&nbsp;</td>
+</tr>
+<tr>
+<td class="dedefault">
+<input type="checkbox" name="drop_action" value="20905" id="drop_id2">
+</td><td nowrap="nowrap" class="dedefault"><span class="fieldnormaltext"><a href="/BAN1P/bwysched.p_display_course?wsea_code=CRED&amp;term_code=201901&amp;session_id=832451&amp;crn=20905&amp;form_code=CALLTIME" onmouseover="window.status='Display Course Details';  return true" onfocus="window.status='Display Course Details';  return true" onmouseout="window.status='';  return true" onblur="window.status='';  return true">20905</a></span></td>
+<td class="dedefault">ECE 459 A01</td>
+<td class="dedefault"><span class="fieldnormaltext"><a href="/BAN1P/bwysched.p_display_course?wsea_code=CRED&amp;term_code=201901&amp;session_id=832451&amp;crn=20905&amp;form_code=CALLTIME" onmouseover="window.status='Display Course Details';  return true" onfocus="window.status='Display Course Details';  return true" onmouseout="window.status='';  return true" onblur="window.status='';  return true">Applications of Digital Signal Processing Techniques</a></span></td>
+<td class="dedefault"><p class="rightaligntext">  1.50</p></td>
+<td class="dedefault">Linked</td>
+</tr>
+<tr>
+<td class="dedefault">
+<input type="checkbox" name="drop_action" value="20906" id="drop_id3">
+</td><td nowrap="nowrap" class="dedefault"><span class="fieldnormaltext"><a href="/BAN1P/bwysched.p_display_course?wsea_code=CRED&amp;term_code=201901&amp;session_id=832451&amp;crn=20906&amp;form_code=CALLTIME" onmouseover="window.status='Display Course Details';  return true" onfocus="window.status='Display Course Details';  return true" onmouseout="window.status='';  return true" onblur="window.status='';  return true">20906</a></span></td>
+<td class="dedefault">ECE 459 B01</td>
+<td class="dedefault"><span class="fieldnormaltext"><a href="/BAN1P/bwysched.p_display_course?wsea_code=CRED&amp;term_code=201901&amp;session_id=832451&amp;crn=20906&amp;form_code=CALLTIME" onmouseover="window.status='Display Course Details';  return true" onfocus="window.status='Display Course Details';  return true" onmouseout="window.status='';  return true" onblur="window.status='';  return true">Applications of Digital Signal Processing Techniques</a></span></td>
+<td class="dedefault"><p class="rightaligntext">  0.00</p></td>
+<td class="dedefault">Linked</td>
+</tr>
+<tr>
+<td class="dedefault">
+<input type="checkbox" name="drop_action" value="20910" id="drop_id4">
+</td><td nowrap="nowrap" class="dedefault"><span class="fieldnormaltext"><a href="/BAN1P/bwysched.p_display_course?wsea_code=CRED&amp;term_code=201901&amp;session_id=832451&amp;crn=20910&amp;form_code=CALLTIME" onmouseover="window.status='Display Course Details';  return true" onfocus="window.status='Display Course Details';  return true" onmouseout="window.status='';  return true" onblur="window.status='';  return true">20910</a></span></td>
+<td class="dedefault">ECE 471 A01</td>
+<td class="dedefault"><span class="fieldnormaltext"><a href="/BAN1P/bwysched.p_display_course?wsea_code=CRED&amp;term_code=201901&amp;session_id=832451&amp;crn=20910&amp;form_code=CALLTIME" onmouseover="window.status='Display Course Details';  return true" onfocus="window.status='Display Course Details';  return true" onmouseout="window.status='';  return true" onblur="window.status='';  return true">Computer Vision</a></span></td>
+<td class="dedefault"><p class="rightaligntext">  1.50</p></td>
+<td class="dedefault">&nbsp;</td>
+</tr>
+<tr>
+<td class="dedefault">
+<input type="checkbox" name="drop_action" value="20912" id="drop_id5">
+</td><td nowrap="nowrap" class="dedefault"><span class="fieldnormaltext"><a href="/BAN1P/bwysched.p_display_course?wsea_code=CRED&amp;term_code=201901&amp;session_id=832451&amp;crn=20912&amp;form_code=CALLTIME" onmouseover="window.status='Display Course Details';  return true" onfocus="window.status='Display Course Details';  return true" onmouseout="window.status='';  return true" onblur="window.status='';  return true">20912</a></span></td>
+<td class="dedefault">ECE 483 A01</td>
+<td class="dedefault"><span class="fieldnormaltext"><a href="/BAN1P/bwysched.p_display_course?wsea_code=CRED&amp;term_code=201901&amp;session_id=832451&amp;crn=20912&amp;form_code=CALLTIME" onmouseover="window.status='Display Course Details';  return true" onfocus="window.status='Display Course Details';  return true" onmouseout="window.status='';  return true" onblur="window.status='';  return true">Digital Video Processing</a></span></td>
+<td class="dedefault"><p class="rightaligntext">  1.50</p></td>
+<td class="dedefault">&nbsp;</td>
+</tr>
+<tr>
+<td class="dedefault">
+<input type="checkbox" name="drop_action" value="20913" id="drop_id6">
+</td><td nowrap="nowrap" class="dedefault"><span class="fieldnormaltext"><a href="/BAN1P/bwysched.p_display_course?wsea_code=CRED&amp;term_code=201901&amp;session_id=832451&amp;crn=20913&amp;form_code=CALLTIME" onmouseover="window.status='Display Course Details';  return true" onfocus="window.status='Display Course Details';  return true" onmouseout="window.status='';  return true" onblur="window.status='';  return true">20913</a></span></td>
+<td class="dedefault">ECE 485 A01</td>
+<td class="dedefault"><span class="fieldnormaltext"><a href="/BAN1P/bwysched.p_display_course?wsea_code=CRED&amp;term_code=201901&amp;session_id=832451&amp;crn=20913&amp;form_code=CALLTIME" onmouseover="window.status='Display Course Details';  return true" onfocus="window.status='Display Course Details';  return true" onmouseout="window.status='';  return true" onblur="window.status='';  return true">Data Analysis and Pattern Recognition</a></span></td>
+<td class="dedefault"><p class="rightaligntext">  1.50</p></td>
+<td class="dedefault">&nbsp;</td>
+</tr>
+<tr>
+<td class="dedefault">
+<input type="checkbox" name="drop_action" value="22720" id="drop_id7">
+</td><td nowrap="nowrap" class="dedefault"><span class="fieldnormaltext"><a href="/BAN1P/bwysched.p_display_course?wsea_code=CRED&amp;term_code=201901&amp;session_id=832451&amp;crn=22720&amp;form_code=CALLTIME" onmouseover="window.status='Display Course Details';  return true" onfocus="window.status='Display Course Details';  return true" onmouseout="window.status='';  return true" onblur="window.status='';  return true">22720</a></span></td>
+<td class="dedefault">SENG 460 A01</td>
+<td class="dedefault"><span class="fieldnormaltext"><a href="/BAN1P/bwysched.p_display_course?wsea_code=CRED&amp;term_code=201901&amp;session_id=832451&amp;crn=22720&amp;form_code=CALLTIME" onmouseover="window.status='Display Course Details';  return true" onfocus="window.status='Display Course Details';  return true" onmouseout="window.status='';  return true" onblur="window.status='';  return true">Practice of Information Security and Privacy</a></span></td>
+<td class="dedefault"><p class="rightaligntext">  1.50</p></td>
+<td class="dedefault">&nbsp;</td>
+</tr>
+<input type="hidden" name="drop_action" value="dummy">
+<tr><td class="dedefault">&nbsp;</td>
+<td class="dedefault">&nbsp;</td>
+<td class="dedefault">&nbsp;</td>
+<td class="dedefault"><span class="fieldmediumtextbold">Totals:</span></td>
+<td class="dedefault"><p class="rightaligntext">  9.00</p></td>
+<td class="dedefault">&nbsp;</td>
+</tr></tbody></table>
