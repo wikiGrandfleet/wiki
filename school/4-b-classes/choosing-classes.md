@@ -1,7 +1,7 @@
 <!-- TITLE: Choosing Classes -->
 <!-- SUBTITLE: A quick summary of Choosing Classes -->
 
-# Header
+# Courses chosen
 
 <table summary="This layout table is used to present the weekly course schedule." width="80%">
 <tbody>
