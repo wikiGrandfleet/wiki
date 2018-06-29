@@ -118,9 +118,9 @@ plt.show()
 ```
 
 
-![png](output_7_0.jpg)
+![Output 7 0](/uploads/tutorials/output_7_0.jpg "Output 15 0")
 
-![Output 15 0](/uploads/tutorials/output-15-0.jpg "Output 15 0")![Output 15 0](/uploads/tutorials/output-15-0.jpg "Output 15 0")
+![Output 15 0](/uploads/tutorials/output-15-0.jpg "Output 15 0")
 
 ```python
 import matplotlib.pyplot as plt
@@ -139,7 +139,7 @@ for i in range(ncols * nrows):
 
 ![png](/uploads/tutorials/output_8_0.jpg)
 
-
+![Output 15 0](/uploads/tutorials/output-8-0.jpg "Output 15 0")
 ---
 # Exploring the data nature by t-SNE method
 
@@ -186,7 +186,7 @@ plt.show()
 ```
 
 
-![png](output_15_0.jpg)
+![Output 15 0](/uploads/tutorials/output-15-0.jpg "Output 15 0")
 
 
 
@@ -200,7 +200,7 @@ plt.show()
 ```
 
 
-![png](/uploads/tutorials/output_16_0.jpg)
+![png](/uploads/tutorials/output_16output-16 0.jpg)
 
 
 ---
@@ -505,11 +505,11 @@ plt.show()
 ```
 
 
-![png](/uploads/tutorials/output_22_0.jpg)
+![png](/uploads/tutorials/output-22-0.jpg)
 
 
 
-![png](/uploads/tutorials/output_22_1.jpg)
+![png](/uploads/tutorials/output-22-1.jpg)
 
 
 ---
@@ -598,7 +598,7 @@ plt.show()
 ```
 
 
-![png/uploads/tutorials/output_29_0.jpg)
+![png/uploads/tutorials/output-29-0.jpg)
 
 
 ---
@@ -621,7 +621,7 @@ plt.show()
 ```
 
 
-![png](/uploads/tutorials/output_31_0.jpg)
+![png](/uploads/tutorials/output-31-0.jpg)
 
 
 
