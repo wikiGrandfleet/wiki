@@ -118,7 +118,7 @@ plt.show()
 ```
 
 
-![png](output_7_0.png)
+![png](output_7_0.jpg)
 
 
 
@@ -137,7 +137,7 @@ for i in range(ncols * nrows):
 ```
 
 
-![png](output_8_0.png)
+![png](output_8_0.jpg)
 
 
 ---
@@ -186,7 +186,7 @@ plt.show()
 ```
 
 
-![png](output_15_0.png)
+![png](output_15_0.jpg)
 
 
 
@@ -200,7 +200,7 @@ plt.show()
 ```
 
 
-![png](output_16_0.png)
+![png](output_16_0.jpg)
 
 
 ---
@@ -505,11 +505,11 @@ plt.show()
 ```
 
 
-![png](output_22_0.png)
+![png](output_22_0.jpg)
 
 
 
-![png](output_22_1.png)
+![png](output_22_1.jpg)
 
 
 ---
@@ -598,7 +598,7 @@ plt.show()
 ```
 
 
-![png](output_29_0.png)
+![png](output_29_0.jpg)
 
 
 ---
@@ -621,7 +621,7 @@ plt.show()
 ```
 
 
-![png](output_31_0.png)
+![png](output_31_0.jpg)
 
 
 
