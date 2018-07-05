@@ -13,3 +13,4 @@ and for the UI
 
 * [(Top solidity tutorials)](https://medium.com/coinmonks/top-solidity-tutorials-4e7adcacced8)
 * [Decentralized voting](https://medium.freecodecamp.org/developing-an-ethereum-decentralized-voting-application-a99de24992d9)
+* [Solidity Space Doggos](https://www.bitdegree.org/courses/learn-solidity-space-doggos/)
