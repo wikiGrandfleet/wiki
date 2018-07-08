@@ -17,4 +17,6 @@ Now, `artifacts.deployed()` uses an existing contract live on the blockchain, us
 
 For dynamically created contracts such as a token factory, using `artifacts.at(<contract>)` makes the most sense, reading in a emitted event parameter (instantation address) and then interacting with that contract is quite valuable for testing.
 
+In addition, solidity files can be used for automated testing, smart contracts testing smart contracts.
+
 
