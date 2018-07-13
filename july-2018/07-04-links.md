@@ -1,8 +1,9 @@
-<!-- TITLE: 07 04 Links -->
+<!-- TITLE: 07 13 Links -->
 <!-- SUBTITLE: A quick summary of 07 04 Links -->
 
-# Links for July 04 2018
+# Links for July 13 2018
 
+Updated July 13, anyway I prefer to work on my own projects instead of copying and pasting, but some of the code in the link Clone and run could be useful for tracking contract state.
 For the next Dapp try using [https://firebase.google.com/pricing/](https://firebase.google.com/pricing/)
 
 
@@ -13,4 +14,5 @@ and for the UI
 
 * [(Top solidity tutorials)](https://medium.com/coinmonks/top-solidity-tutorials-4e7adcacced8)
 * [Decentralized voting](https://medium.freecodecamp.org/developing-an-ethereum-decentralized-voting-application-a99de24992d9)
-* [Solidity Space Doggos](https://www.bitdegree.org/courses/learn-solidity-space-doggos/)
+* [~~Solidity Space Doggos~~](https://www.bitdegree.org/courses/learn-solidity-space-doggos/)
+* [~~Clone and run~~](https://www.danielefavi.com/create-your-blockchain-dapp-with-ethereum-and-vuejs/)
